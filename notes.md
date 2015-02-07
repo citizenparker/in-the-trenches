@@ -1,0 +1,4 @@
+## Open Questions
+* Use String Railway as inspiration and create a “battlefield” with a piece of string. You can only play cards that are connected to your home base or one of the facedown 5/0 cards in friendly territory. (this eliminates much of the utility of cheap cards though if you don’t need continuous lines from base to enemies)
+* Is it worthwhile to have an “infiltrator” card - something that says “For the purposes of connection only, you may consider one bordering enemy to be a friendly” ? This should be a weak, weak card if so.
+* How many players should this support? Most cards are written to allow multiple players, but I think this should likely be just 2 for now. In multiplayer, would need better mechanisms to replay cards.
