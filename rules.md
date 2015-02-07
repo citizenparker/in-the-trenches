@@ -25,7 +25,7 @@ Starting with the first player, players alternate placing the card of their choi
 On your turn, you have three actions. With one action you may:
 
 * **Play a card** - First, pay the price of a card as described above. You may then play that card in the field such that it borders another friendly and is connected by friendlies to your home base.
-* **Dominate a card** - Trash an enemy card whose value is three less than the total value of all friendlies bordering it. If this causes any enemies to be disconnected enemies from their base, draw a card.
+* **Dominate a card** - Trash an enemy card whose value is three less than the total value of all friendlies bordering it. If this causes any enemies to be disconnected from their base, draw a card.
 * **Draw a card** - Draw one card from your deck
 
 With two actions, you may:
