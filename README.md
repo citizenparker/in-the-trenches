@@ -5,10 +5,12 @@ A game of hand management and the control of physical space.
 See [the rules](https://github.com/citizenparker/power-lines/blob/master/rules.md).
 
 ## How / what to print
+* [The Rules](https://github.com/citizenparker/power-lines/blob/master/rules.pdf?raw=true)
+* [Cards Sheet 1](https://github.com/citizenparker/power-lines/blob/master/CardSheet.pdf?raw=true)
+* [Cards Sheet 2](https://github.com/citizenparker/power-lines/blob/master/CardSheet2.pdf?raw=true)
 
-* [The Rules PDF](tbd)
-* [Cards Sheet 1](tbd)
-* [Cards Sheet 2](tbd)
+## Design Goals
+I wanted to design the simplest “constructed” card game I could think of. The cards are intended to support a number of possible strategies - fast play, powerhouse, utility, etc.
 
 ## License
 
