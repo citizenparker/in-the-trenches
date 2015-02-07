@@ -1,10 +1,10 @@
 # Power Lines
 A game of hand management and the control of physical space.
 
-## How to play
+## How to Play
 See [the rules](https://github.com/citizenparker/power-lines/blob/master/rules.md).
 
-## How / what to print
+## What to Print
 * [The Rules](https://github.com/citizenparker/power-lines/blob/master/rules.pdf?raw=true)
 * [Cards Sheet 1](https://github.com/citizenparker/power-lines/blob/master/CardSheet.pdf?raw=true)
 * [Cards Sheet 2](https://github.com/citizenparker/power-lines/blob/master/CardSheet2.pdf?raw=true)
