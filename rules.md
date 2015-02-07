@@ -48,7 +48,7 @@ With two actions, you may:
 Base / - / For the purposes of other card effects, this is not a friendly. Lose the game if this card is dominated.
 0 / 0 / The base value of this card is two less than the printed value of the highest bordering friendly. If this card ever decreases in value, trash this card.
 1 / -1 / Each friendly bordering this card has +1 value.
-2 / -2 / If this card is trashed or discarded, the owner of the nearest enemy may choose an additional bordering friendly to trash. 
+2 / -2 / If this card is trashed or discarded, the owner of the nearest enemy may choose an additional bordering friendly to discard. 
 3 / -1 / Discard a friendly as an additional price to play this card.
 4 / 0 / When an enemy is played that borders this card, draw a card.
 5 / 0 / If this card is played such that it borders an enemy, randomly trash one card from an opponent’s discard pile.
@@ -56,11 +56,11 @@ Base / - / For the purposes of other card effects, this is not a friendly. Lose 
 7 / 1 / When playing this card, you may dominate one bordering enemy as a free action.
 8 / 1 / Each friendly bordering this card adds +1 to this card’s value.
 9 / 2 / When playing this card, you may play another friendly bordering this card of value 5 or less as a free action.
-10 / 2 / This is a ten. =)
+10 / 2 / This is a ten. It has no other effect.
 
 ## Deckbuilding
 
-Players can build their own deck from the cards listed above. The only rule is that a deck must be exactly 26 cards.
+Players can build their own deck from the cards listed above. The only rule is that a deck must be exactly 26 cards excluding the base card.
 
 ## Suggested Initial Deck
 Card / Count
@@ -75,3 +75,8 @@ Card / Count
 8  / 2
 9  / 2
 10 / 2
+
+## FAQ
+
+* Can facedown cards be discarded by other card effects?
+** Yes. If this occurs, they go faceup into your discard pile like any other discard.
