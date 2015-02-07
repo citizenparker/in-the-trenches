@@ -79,4 +79,5 @@ Card / Count
 ## FAQ
 
 * Can facedown cards be discarded by other card effects?
+
 > Yes. If this occurs, they go faceup into your discard pile like any other discard.
