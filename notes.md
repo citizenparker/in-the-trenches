@@ -8,4 +8,21 @@
 
 * “For the purposes of connection only, you may consider one bordering enemy to be a friendly” ? This should be a weak, weak card
 
-.
+## Theme?
+
+Alternate world WW1 theme (title: “In the Trenches”)?
+
+Give each player a lightweight faction that gives them a unique power - something that isn’t game changing but gives the flavor of a distinct major power and would be used 2-3 times per game.
+
+(idea: keep faction face-down until it is first used?)
+
+#### For Example
+**Muskovy (Russia)** - Mass Mobilization - For three actions, you may draw 5 cards.
+
+**Riviere (France)** - Valor & Sacrifice - For one action, you may trash a card from your hand. If you do so, take a played friendly into hand.
+
+**Aschaffen (Germany)** - Power & Strength - When dominating, you may grant one friendly +1 value. After this action, discard that friendly.
+
+**Welland (England)** - A Kingdom United - All your face down cards have value four. You may play any card face down as a four strength, no cost, no effect card.
+
+**The Concordant Republics (U.S.)** - Scientific Progress - For one action, you may select one card from your discard and place it on the bottom of your deck.
