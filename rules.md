@@ -1,6 +1,6 @@
 # Power Lines (working title)
 
-**Goal**: To build a line of cards extending from your base to the enemy base and dominate the enemy base. The first player to dominate the other player’s base wins. In event both players run out of cards, the winner is the player whose card is closest to the enemy base. If there is no closer player, the game is a draw.
+**Goal**: To build a line of cards extending from your base to the enemy base and dominate the enemy base. The first player to dominate the other player’s base wins. In event both players run out of cards, the winner is the player whose card is closest to the enemy base. (Note that this card need not be connected) If there is no closer player, the game is a draw.
 
 ## Anatomy of a Card
 
@@ -25,7 +25,7 @@ Starting with the first player, players alternate placing the card of their choi
 On your turn, you have three actions. With one action you may:
 
 * **Play a card** - First, pay the price of a card as described above. You may then play that card in the field such that it borders another friendly and is connected by friendlies to your home base.
-* **Dominate a card** - Trash an enemy card whose value is two less than the total value of all friendlies bordering it. If this causes any enemies to be disconnected from their base, draw a card.
+* **Dominate a card** - Trash an enemy card whose value is two less than the total value of all friendlies bordering it. Friendlies which are disconnected from their base do not contribute to this total value.
 * **Draw a card** - Draw one card from your deck
 
 With two actions, you may:
