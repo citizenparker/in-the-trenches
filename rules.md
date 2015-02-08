@@ -45,8 +45,8 @@ With two actions, you may:
 
 ## List of Cards
 ### Card / Price / Effect
-* Base / - / For the purposes of other card effects, this is not a friendly. Lose the game if this card is dominated.
-* 0 / 0 / The base value of this card is two less than the printed value of the highest bordering friendly. If this card ever decreases in value, trash this card.
+* Base / - / Lose the game if this card is dominated, trashed, or discarded.
+* 0 / 0 / The base value of this card is two less than the printed value of the highest bordering non-base friendly. If this card ever decreases in value, trash this card.
 * 1 / -1 / Each friendly bordering this card has +1 value.
 * 2 / -2 / If this card is trashed or discarded, the owner of the nearest enemy may choose an additional bordering friendly to discard. 
 * 3 / -1 / Discard a friendly as an additional price to play this card.
