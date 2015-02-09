@@ -22,10 +22,10 @@ Give each player a lightweight faction that gives them a unique power - somethin
 (idea: keep faction face-down until it is first used?)
 
 #### For Example
-**Muskovy (Russia)** - Mass Mobilization - For two actions, you may draw 3 cards.
+**Muskovy (Russia)** - Mass Mobilization - For two actions, you may draw 3 cards. (deep red)
 
-**Rivienne (France)** - Valor & Sacrifice - For one action, you may trash a card from your hand. If you do so, take a played friendly into hand.
+**Rivienne (France)** - Valor & Sacrifice - For one action, you may trash a card from your hand. If you do so, take a played friendly into hand. (blue)
 
-**Unterhaudt (Germany)** - Power & Strength - When dominating, you may grant one friendly +1 value. After this action, trash that friendly.
+**Unterhaudt (Germany)** - Power & Strength - When dominating, you may grant one friendly +1 value. After this action, trash that friendly. (mustard)
 
-**Welland (England)** - A Kingdom United - All your face down cards have value four. You may play any card face down as a four strength, no cost, no effect card.
+**Welland (England)** - A Kingdom United - All your face down cards have value four. You may play any card face down as a four strength, no cost, no effect card. (green)

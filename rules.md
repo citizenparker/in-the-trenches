@@ -1,4 +1,4 @@
-# Power Lines (working title)
+# In the Trenches
 
 **Goal**: To build a line of cards extending from your base to the enemy base and dominate the enemy base. The first player to dominate the other player’s base wins. In event both players run out of cards, the winner is the player whose card is closest to the enemy base. (Note that this card need not be connected) If there is no closer player, the game is a draw.
 
@@ -62,6 +62,8 @@ With two actions, you may:
 
 Players can build their own deck from the cards listed above. The only rule is that a deck must be exactly 26 cards excluding the base card.
 
+If deckbuilding and using Identities (see below), choose an Identity during deckbuilding rather than just below play.
+
 ## Suggested Initial Deck
 Card / Count
 * 0  / 2
@@ -75,6 +77,10 @@ Card / Count
 * 8  / 2
 * 9  / 2
 * 10 / 2
+
+## Optional - Identities
+
+Optionally, “In the Trenches” can be played with **identities**, factions that give each player a unique power. If you are playing with identities, take each of the four identities (Welland, Rivienne, Unterhaudt, and Muskovy) and deal two to each player. Each player chooses an identity in secret, then reveals them simultaneously.
 
 ## FAQ
 
