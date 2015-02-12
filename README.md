@@ -1,4 +1,4 @@
-# Power Lines
+# In the Trenches
 A game of hand management and the control of physical space.
 
 ## How to Play
